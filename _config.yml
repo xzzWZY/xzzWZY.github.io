@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Zhiyu(Julius) Wu
+title: Welcome to Julius's Homepage~
 
 # Your name to show in the footer
 author: Some Person
@@ -19,8 +19,10 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#   About Me: "aboutme"
+navbar-links:
+  About Me: "aboutme"
+  Projects: "projects"
+  Blog: "blog"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -155,6 +157,7 @@ footer-hover-col: "#0085A1"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:

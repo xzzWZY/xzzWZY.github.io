@@ -1,16 +1,27 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Interests
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Machine Learning System: I'm thrilled to develop efficient Machine learning training and serving systems.
+- AI: I'm always excited about the development of AI, and I believe AGI would coming soon.
+- Quadball: I'm a member of Michigan Quadball Team, wearing number 21. We entered the semi-final in Nationals in season 2023.
+- NBA: I'm a big fan of San Antonio Spurs!
+- Gym: I started to go to gym in 2023 and now I am a big fan of gym.
 
-What else do you need?
+## Biography
+I am a first year [M.S. student in Computer science](https://siebelschool.illinois.edu/academics/graduate/ms-program) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Fan Lai](https://www.fanlai.me/), focusing on Machine Learning Systems.
 
-### My story
+Prior to this, I earned dual bachelor's degrees from both [University of Michigan](https://umich.edu/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At Michigan, I had the privilege of working with [Mosharaf Chowdhury](https://www.mosharaf.com/) and [Amber Liu](https://websites.umich.edu/~amberljc/), where my research focused on Large Language Model (LLM) inference.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to contact me if you're interested in collaborating or have opportunities that align with my interests.
+
+## Interests
+- Machine Learning Systems: Passionate about building efficient ML training and serving systems.
+- AI: Enthusiastic about AI advancements, particularly the potential for AGI.
+- Quadball: Proud member of the Michigan Quadball Team, wearing #21. We reached the semi-finals at Nationals in the 2023 season.
+- NBA: A big fan of San Antonio Spurs.
+- Fitness: I started going to the gym in 2023 and have become a fitness enthusiast.
