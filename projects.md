@@ -4,7 +4,7 @@ title: Projects & Researches
 # subtitle: 
 ---
 
-## Research
+# Research
 ### Improving Service Level Objective (SLO) of Large Language Model Serving
 July 2024 - present
 Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
@@ -22,7 +22,7 @@ Supervisor: [Mosharaf Chowdhury](https://www.mosharaf.com/) @ Symbiotic Lab
 - Co-authored the paper “Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services” as the second author.
 
 
-## Projects
+# Projects
 ### ML.ENERGY.LEADERBOARD
 May 2023 – Sept. 2023
 Symbiotic Lab
@@ -38,7 +38,7 @@ Symbiotic Lab
 
 ### Embedded Project
 
-## Publications
+# Publications
 - Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services
 Preprint, 2024
 Jiachen Liu, **Zhiyu Wu**, Jae-Won Chung, Fan Lai, Myungjin Lee, Mosharaf Chowdhury
