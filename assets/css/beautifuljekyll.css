@@ -375,7 +375,7 @@ img {
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
   {% unless site.round-avatar == false %}
-    border-radius: 50%;
+    border-radius: 100%;
   {% endunless %}
   display: block;
 }
