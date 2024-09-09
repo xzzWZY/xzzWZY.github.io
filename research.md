@@ -4,7 +4,6 @@ title: Research
 # subtitle: 
 ---
 
-# Research
 ### Improving Service Level Objective (SLO) of Large Language Model Serving
 July 2024 - present; Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
 - Classify LLM serving requests into three categories based on unique system objectives:
