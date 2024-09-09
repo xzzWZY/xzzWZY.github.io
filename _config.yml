@@ -20,8 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Projects & Researches: "projects"
+  # About Me: "aboutme"
+  Projects: "projects"
+  Research: "research"
   Experiences: "experiences"
   Blogs: "blogs"
 #   Resources:
