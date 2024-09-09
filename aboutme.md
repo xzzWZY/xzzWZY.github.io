@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: About me
-# subtitle: 
+title: Zhiyu (Julius) Wu
+subtitle: First year MSCS student at UIUC
 ---
 
 ## Biography
