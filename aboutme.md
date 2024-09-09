@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
+# title: About me
 # subtitle: 
 ---
-
-### Interests
-
-- Machine Learning System: I'm thrilled to develop efficient Machine learning training and serving systems.
-- AI: I'm always excited about the development of AI, and I believe AGI would coming soon.
-- Quadball: I'm a member of Michigan Quadball Team, wearing number 21. We entered the semi-final in Nationals in season 2023.
-- NBA: I'm a big fan of San Antonio Spurs!
-- Gym: I started to go to gym in 2023 and now I am a big fan of gym.
 
 ## Biography
 I am a first year [M.S. student in Computer science](https://siebelschool.illinois.edu/academics/graduate/ms-program) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Fan Lai](https://www.fanlai.me/), focusing on Machine Learning Systems.
