@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experiences
+title: 
 # subtitle: First year MSCS student at UIUC
 ---
 
