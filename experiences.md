@@ -12,4 +12,4 @@ title: Experiences
 - About six classes on average every day.
 
 # Teaching Assistant
-- VP 160 [Honors Pythics](https://www.ji.sjtu.edu.cn/wp-content/uploads/formidable/15/Standard-Course-Profile-Form-Vp1601.pdf) SJTU, 2022 Summer
+- VP 160 [Honors Physics](https://www.ji.sjtu.edu.cn/wp-content/uploads/formidable/15/Standard-Course-Profile-Form-Vp1601.pdf), SJTU, 2022 Summer
