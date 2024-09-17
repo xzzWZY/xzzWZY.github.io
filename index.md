@@ -9,7 +9,7 @@ I am a first year [M.S. student in Computer science](https://siebelschool.illino
 
 Prior to this, I earned dual bachelor's degrees from both [University of Michigan](https://umich.edu/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At Michigan, I had the privilege of working with [Mosharaf Chowdhury](https://www.mosharaf.com/) and [Amber Liu](https://websites.umich.edu/~amberljc/), where my research focused on Large Language Model (LLM) inference.
 
-Here is my [**CV**](assets/CV.docx).
+<!-- Here is my [**CV**](assets/CV.docx). -->
 [View my CV](/cv/)
 
 
