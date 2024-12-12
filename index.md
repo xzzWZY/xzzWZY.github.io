@@ -20,4 +20,4 @@ Feel free to contact me if you're interested in collaborating or have opportunit
 - NBA: A big fan of San Antonio Spurs.
 - Fitness: I started going to the gym in 2023 and have become a fitness enthusiast.
 
-# Partner: [Ari Wang](https://www.linkedin.com/in/ari-wang/)
+<!-- # Partner: [Ari Wang](https://www.linkedin.com/in/ari-wang/) -->
