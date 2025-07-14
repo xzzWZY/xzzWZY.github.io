@@ -4,7 +4,7 @@ title: Experiences
 # subtitle: First year MSCS student at UIUC
 ---
 # WORK EXPERIENCE
-Research Engineering Intern, Bytedance
+### Research Engineering Intern, Bytedance
 May 2025 - present; Supervisor: [Xiao Yu](https://www.linkedin.com/in/fishx/) @ Seed-Foundation-Machine Learning System
 - Developed comprehensive Jupyter notebook and web frontend toolkit integrating the complete AI model training workflow from dataset profiling, parallelism optimization and simulation, SFT/RL deployment to production inference.
 - Built performance simulator for distributed LLM training with focus on memory modeling, accurately predicting GPU memory consumption patterns and inter-node communication overhead.
