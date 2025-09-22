@@ -5,7 +5,7 @@ subtitle: First year MSCS student at UIUC
 ---
 
 # Biography
-I am a first year [M.S. student in Computer science](https://siebelschool.illinois.edu/academics/graduate/ms-program) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Fan Lai](https://www.fanlai.me/), focusing on Machine Learning Systems.
+I am a second year [M.S. student in Computer science](https://siebelschool.illinois.edu/academics/graduate/ms-program) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Fan Lai](https://www.fanlai.me/), focusing on Machine Learning Systems.
 
 Prior to this, I earned dual bachelor's degrees from both [University of Michigan](https://umich.edu/) and [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). At Michigan, I had the privilege of working with [Mosharaf Chowdhury](https://www.mosharaf.com/) and [Amber Liu](https://websites.umich.edu/~amberljc/), where my research focused on Large Language Model (LLM) inference.
 
