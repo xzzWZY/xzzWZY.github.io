@@ -5,15 +5,15 @@ title: Research
 ---
 
 ### Cacheflow: Cross-layer KV Cache Parallelism for LLM Serving at Scale
-August 2024 - present; Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
+August 2024 - Dec 2025; Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
 -	Identified KV cache as a growing memory and latency bottleneck in large-scale LLM serving systems.
 -	Developed novel cross-layer parallelism framework combining token-wise, layer-wise, and multi-GPU parallelism for hybrid KV cache restoration. 
 -	Implemented SLO-aware scheduling to manage I/O contention across requests, batches, and models while maintaining performance guarantees. 
 -	Addressed limitations of existing systems in long-context scenarios and concurrent restoration workloads.
 -	Designed cross-layer management system that optimally balances computation and communication for KV cache restoration at cluster scale.
 
-### Tempo: Application-aware LLM Serving with Mixed SLO Requirements
-August 2024 - present; Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
+### JITServe: SLO-aware LLM Serving with Imprecise Request Information
+August 2024 - Sept 2025; Supervisor: [Fan Lai](https://www.fanlai.me/) @ GAEA Lab
 -	Identified diverse SLO requirements across three LLM request patterns: latency-sensitive, throughput-intensive, and collective requests with varying performance needs.
 -	Developed SLO-aware scheduler that maximizes service gain by allocating just enough bandwidth to meet individual SLOs while preserving residual capacity for other requests.
 -	Implemented hybrid approach using quantile regression forests for response length estimation and dependency-graph matching for collective request coordination.
@@ -33,5 +33,5 @@ Here’s a more concise version:
 
 # Publications
 - [Andes: Defining and Enhancing Quality-of-Experience in LLM-Based Text Streaming Services](https://arxiv.org/abs/2404.16283); Preprint, 2024; Jiachen Liu, **Zhiyu Wu**, Jae-Won Chung, Fan Lai, Myungjin Lee, Mosharaf Chowdhury
--	[Tempo: Application-aware LLM Serving with Mixed SLO Requirements](https://arxiv.org/abs/2504.20068); Preprint, 2025; submit to SOSP 25; Wei Zhang*, **Zhiyu Wu***, Yi Mu, Banruo Liu, Myungjin Lee, Fan Lai 
+-	[JITServe: SLO-aware LLM Serving with Imprecise Request Information](https://arxiv.org/abs/2504.20068); NSDI, 2026; Wei Zhang*, **Zhiyu Wu***, Yi Mu, Rui Ning, Banruo Liu, Nikhil Sarda, Myungjin Lee, Fan Lai 
 -	[The ML.ENERGY Benchmark: Toward Automated Inference Energy Measurement and Optimization](https://arxiv.org/abs/2505.06371); NeurIPS spotlight, 2025; Jae-Won Chung, Jiachen Liu, Jeff J Ma, Ruofan Wu, Oh Jun Kweon, Yuxuan Xia, **Zhiyu Wu**, Mosharaf Chowdhury
