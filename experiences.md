@@ -5,7 +5,7 @@ title: Experiences
 ---
 # WORK EXPERIENCE
 ### ML System Engineer, Bytedance
-Jan 2026 - present; Supervisor: [Xiao Yu](https://www.linkedin.com/in/fishx/) @ Data-AML-Ark-Large-Language-Models
+Jan 2026 - Aug 2026; Supervisor: [Xiao Yu](https://www.linkedin.com/in/fishx/) @ Data-AML-Ark-Large-Language-Models
 - Working on LLM training system, i.e. VeOmni, VeRL.
 - Working on TPU training framework.
 
