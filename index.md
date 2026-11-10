@@ -7,7 +7,7 @@ affiliation: University of Illinois Urbana-Champaign
 
 ## About
 
-I am a first-year Ph.D. student at UIUC, advised by Prof. [Fan Lai](https://www.fanlai.me/). I'm broadly interested in Machine Learning Systems and efficient ML. Recently, I've become increasingly interested in **Physical AI and Robotics**, especially the systems that make training and deploying embodied models efficient.
+I am a first-year Ph.D. student at UIUC, advised by Prof. [Fan Lai](https://www.fanlai.me/). I'm broadly interested in **Machine Learning Systems and efficient ML**. Recently, I've become increasingly interested in **Physical AI and Robotics**, especially robot learning and the systems that make training and deploying embodied models efficient.
 
 Previously, I was a software engineer at ByteDance, working on ML training systems and inference on TPUs.
 
@@ -22,7 +22,7 @@ I'm always happy to chat, whether it's about research, a potential collaboration
 ## Interests
 - Machine Learning Systems: Passionate about building efficient ML training and serving systems.
 - AI: Enthusiastic about AI advancements, particularly the potential for AGI.
-- Physical AI and Robotics: Excited about bringing AI into the physical world through embodied agents and robots.
+- Physical AI and Robotics: Excited about bringing AI into the physical world through robot learning and embodied agents.
 - Quadball: Proud member of the Michigan Quadball Team, wearing #21. We reached the semi-finals at Nationals in the 2023 season.
 - NBA: A big fan of San Antonio Spurs.
 - Rock Climbing: I started climbing in 2024 and have been hooked ever since.
